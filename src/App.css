@@ -68,3 +68,8 @@ color :rgb(77, 192, 221)
 .clear{
   background-color : rgb(165, 88, 88)
 }
+
+.catImg{
+  width: 15%;
+
+}
