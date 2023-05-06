@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+button.color {
+  background-color : rgb(52, 170, 206)
+}
+
+button
+{
+  color: white;
+  font-size: 20px;
+  padding: 10px 60px;
+  border-radius: 5px;
+  margin: 10px 0px;
+  cursor: pointer;
+}
