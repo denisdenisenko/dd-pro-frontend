@@ -6,7 +6,7 @@ function Button() {
 
   const fetchStringFromFlask = async () => {
     try {
-      const response = await axios.get('http://localhost:5000/nadia');
+      const response = await axios.get('http://localhost:5000/get_users');
       setMessage(response.data.response);
       console.log(response.data);
     } catch (error) {
