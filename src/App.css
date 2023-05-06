@@ -38,7 +38,7 @@
 }
 
 button.color {
-  background-color : rgb(52, 170, 206)
+  background-color : rgb(77, 192, 221)
 }
 
 button
@@ -49,4 +49,8 @@ button
   border-radius: 5px;
   margin: 10px 0px;
   cursor: pointer;
+}
+
+.h1_users {
+color :rgb(77, 192, 221)
 }
